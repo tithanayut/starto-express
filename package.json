@@ -1,0 +1,23 @@
+{
+  "name": "starto-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tithanayut/starto-expressjs.git"
+  },
+  "author": "Thanayut T.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tithanayut/starto-expressjs/issues"
+  },
+  "homepage": "https://github.com/tithanayut/starto-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
